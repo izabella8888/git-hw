@@ -1,0 +1,42 @@
+commit 35a324cba12c84803244fbc980c241dcc0f161c8
+Merge: 5df707c 06ca1ca
+Author: Liza <ushanovaeliza@yandex.ru>
+Date:   Sun Oct 4 17:53:06 2026 +0300
+
+    Изменение 3 строки и добавление последней
+
+commit 5df707cc56e18b1ec0ce36a63065aa3503026813
+Author: Liza <ushanovaeliza@yandex.ru>
+Date:   Sun Oct 4 17:38:45 2026 +0300
+
+    Main: изменение 3 строки
+
+commit 06ca1ca068d9996da0d91d2fb4ca1d955c917a9d
+Author: Liza <ushanovaeliza@yandex.ru>
+Date:   Sun Oct 4 17:36:32 2026 +0300
+
+    feature-b изменение строчки 3
+
+commit 85a71b2b94a9aa9c43fe06add5494de161a71f25
+Author: Liza <ushanovaeliza@yandex.ru>
+Date:   Sun Oct 4 16:48:11 2026 +0300
+
+    Добавила содержание 3 строки в feature-b
+
+commit 4c3c78165c27a6c579e080943b94d65089799478
+Author: Liza <ushanovaeliza@yandex.ru>
+Date:   Sun Oct 4 16:13:03 2026 +0300
+
+    Изменение первой строчки
+
+commit 00b99f0c743d1ce5afc93bc3c3e2f8f67ebde54d
+Author: Liza <ushanovaeliza@yandex.ru>
+Date:   Sun Oct 4 16:00:25 2026 +0300
+
+    добавление содержания 3 и 4 строки
+
+commit 31cd8eee82c0e4fe5ac84344753074f88c1d7d85
+Author: Liza <ushanovaeliza@yandex.ru>
+Date:   Sun Oct 4 15:31:14 2026 +0300
+
+    1 commit
